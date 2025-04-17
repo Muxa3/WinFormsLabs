@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.exe.config
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.exe
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\bin\Debug\WinBackgroundWorker.pdb
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.Form1.resources
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.Properties.Resources.resources
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.exe
+C:\Users\User\Desktop\Мухамдеев - Лабы WinForms\Лабораторная №7\WinBackgroundWorker\obj\Debug\WinBackgroundWorker.pdb
