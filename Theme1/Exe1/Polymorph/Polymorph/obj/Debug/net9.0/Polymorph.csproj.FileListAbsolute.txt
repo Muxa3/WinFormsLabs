@@ -1,0 +1,14 @@
+C:\Users\Islam\Desktop\Polymorph\Polymorph\bin\Debug\net9.0\Polymorph.exe
+C:\Users\Islam\Desktop\Polymorph\Polymorph\bin\Debug\net9.0\Polymorph.deps.json
+C:\Users\Islam\Desktop\Polymorph\Polymorph\bin\Debug\net9.0\Polymorph.runtimeconfig.json
+C:\Users\Islam\Desktop\Polymorph\Polymorph\bin\Debug\net9.0\Polymorph.dll
+C:\Users\Islam\Desktop\Polymorph\Polymorph\bin\Debug\net9.0\Polymorph.pdb
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\Polymorph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\Polymorph.AssemblyInfoInputs.cache
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\Polymorph.AssemblyInfo.cs
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\Polymorph.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\Polymorph.dll
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\refint\Polymorph.dll
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\Polymorph.pdb
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\Polymorph.genruntimeconfig.cache
+C:\Users\Islam\Desktop\Polymorph\Polymorph\obj\Debug\net9.0\ref\Polymorph.dll
