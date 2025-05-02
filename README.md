@@ -26,4 +26,4 @@ C# NETFramework v4.8 + .Net Core
 <a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme3/Lab5">Лабораторная работа №5. Взаимодействие управляемого и неуправляемого кода</a><br>
 ## 4. ASP.NET
 ### Задания:
-<a>Лабораторная работа №1. Знакомство с MVC</a><br>
+<a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme4/Lab1">Лабораторная работа №1. Знакомство с MVC</a><br>
