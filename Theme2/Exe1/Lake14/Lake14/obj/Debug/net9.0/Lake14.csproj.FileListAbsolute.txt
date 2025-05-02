@@ -1,0 +1,14 @@
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\Lake14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\Lake14.AssemblyInfoInputs.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\Lake14.AssemblyInfo.cs
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\Lake14.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\bin\Debug\net9.0\Lake14.exe
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\bin\Debug\net9.0\Lake14.deps.json
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\bin\Debug\net9.0\Lake14.runtimeconfig.json
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\bin\Debug\net9.0\Lake14.dll
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\bin\Debug\net9.0\Lake14.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\Lake14.dll
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\refint\Lake14.dll
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\Lake14.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\Lake14.genruntimeconfig.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Lake14\Lake14\obj\Debug\net9.0\ref\Lake14.dll

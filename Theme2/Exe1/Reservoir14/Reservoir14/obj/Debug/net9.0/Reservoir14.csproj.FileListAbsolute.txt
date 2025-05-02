@@ -1,0 +1,14 @@
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\bin\Debug\net9.0\Reservoir14.exe
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\bin\Debug\net9.0\Reservoir14.deps.json
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\bin\Debug\net9.0\Reservoir14.runtimeconfig.json
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\bin\Debug\net9.0\Reservoir14.dll
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\bin\Debug\net9.0\Reservoir14.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\Reservoir14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\Reservoir14.AssemblyInfoInputs.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\Reservoir14.AssemblyInfo.cs
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\Reservoir14.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\Reservoir14.dll
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\refint\Reservoir14.dll
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\Reservoir14.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\Reservoir14.genruntimeconfig.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme2\Exe1\Reservoir14\Reservoir14\obj\Debug\net9.0\ref\Reservoir14.dll
