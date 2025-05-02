@@ -6,13 +6,13 @@
 <a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme1/Exe3">Задачи с созданием классов(MathUtils, Counter, StringUtils, Circle)</a><br>
 ## 2. ООП
 ### Задания:
-<a>Доп задачи (одна на человека, номер по списку) UML1</a><br>
-<a>Практическая работа 2 (UML)</a><br>
-<a>Практическая работа 3 (UML)</a><br>
-<a>Практическая работа 4 (UML)</a><br>
-<a>Консольный проводник файловой системы</a><br>
-<a>Приложение для работы с дисками</a><br>
-<a>Модификация консольного проводника с возможностью создания файлов</a><br>
+<a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme2/Exe1">Доп задачи (одна на человека, номер по списку) UML1</a><br>
+<a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme2/Exe2">Практическая работа 2 (UML)</a><br>
+<a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme2/Exe3">Практическая работа 3 (UML)</a><br>
+<a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme2/Exe4">Практическая работа 4 (UML)</a><br>
+<a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme2/App1">Консольный проводник файловой системы</a><br>
+<a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme2/App2">Приложение для работы с дисками</a><br>
+<a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme2/App3">Модификация консольного проводника с возможностью создания файлов</a><br>
 ## 3. Window Forms
 ### Стек:
 C# NETFramework v4.8 + .Net Core
