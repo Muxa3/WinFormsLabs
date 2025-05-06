@@ -15,9 +15,9 @@
 <a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme2/App3">Модификация консольного проводника с возможностью создания файлов</a><br>
 ## 3. Window Forms
 ### Стек:
-C# NETFramework v4.8
-.Net Core
-accessdatabaseengine_X64
+C# NETFramework v4.8б
+<br>.Net Core
+<br>accessdatabaseengine_X64
 ### Установка
 1. Установите Visual Studio 2022 (Community бесплатный)
 2. Откройте файл проекта .sln и запустите отладку
@@ -32,7 +32,7 @@ accessdatabaseengine_X64
 <a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme3/Lab8">Лабораторная работа №8. Повышение удобства использования приложений</a><br>
 <a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme3/Lab10">Лабораторная работа №10. Подключение к базе данных</a><br>
 #### Прим.
-Лабораторные работы 9, а также отчасти 8, требует дополнительные материалы для выполнения. Поэтому лабораторная работа 9 и последнее упражнение из 8-ой отсутсвуют.
+Лабораторные работы 9, а также отчасти 8, требует дополнительные материалы для выполнения. Поэтому лабораторная работа 9 и последнее упражнение из 8-ой отсутствуют.
 ## 4. ASP.NET
 ### Задания:
 <a href="https://github.com/Muxa3/WinFormsLabs/tree/main/Theme4/Lab1">Лабораторная работа №1. Знакомство с MVC</a><br>
