@@ -1,0 +1,30 @@
+﻿@model List<WebApplication1.Models.Entities.Person>
+@{
+    ViewBag.Title = "ListOfPeople";
+}
+
+<h2>View</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th class="text-center">Наименование</th>
+            <th class="text-center">Возраст</th>
+            <th class="text-center">#</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model)
+        {
+            <tr class="text-center">
+                <td>@person.LastName @person.FirstName @person.Patronymic</td>
+                <td>@person.Age</td>
+                <td>
+                    @Html.ActionLink("подробнее", "PersonDetails", "Lab2"
+                , new { personId = person.Id }, null)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
