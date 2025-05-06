@@ -1,0 +1,11 @@
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\bin\Debug\Конфетная фабрика.mdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\bin\Debug\WinDataSourcesWizard.exe.config
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\bin\Debug\WinDataSourcesWizard.exe
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\bin\Debug\WinDataSourcesWizard.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.csproj.AssemblyReference.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.Form1.resources
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.Properties.Resources.resources
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.csproj.GenerateResource.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.exe
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataSourcesWizard\WinDataSourcesWizard\obj\Debug\WinDataSourcesWizard.pdb

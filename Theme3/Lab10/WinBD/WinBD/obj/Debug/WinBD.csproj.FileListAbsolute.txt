@@ -1,0 +1,12 @@
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\bin\Debug\WinBD.exe.config
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\bin\Debug\WinBD.exe
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\bin\Debug\WinBD.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\obj\Debug\WinBD.csproj.AssemblyReference.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\obj\Debug\WinBD.Form1.resources
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\obj\Debug\WinBD.Properties.Resources.resources
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\obj\Debug\WinBD.csproj.GenerateResource.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\obj\Debug\WinBD.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\obj\Debug\WinBD.exe
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\obj\Debug\WinBD.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\bin\Debug\Конфетная фабрика.mdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinBD\WinBD\obj\Debug\WinBD.Form2.resources
