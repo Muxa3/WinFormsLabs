@@ -1,0 +1,11 @@
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\bin\Debug\Конфетная фабрика.mdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.exe.config
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.exe
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\bin\Debug\WinDataBinding.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csproj.AssemblyReference.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.Properties.Resources.resources
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csproj.GenerateResource.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.exe
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.pdb
+C:\Users\Islam\Desktop\WinFormsLabs\Theme3\Lab10\WinDataBinding\WinDataBinding\obj\Debug\WinDataBinding.Form1.resources
