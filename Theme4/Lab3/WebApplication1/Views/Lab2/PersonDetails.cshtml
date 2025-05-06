@@ -1,0 +1,35 @@
+﻿@model WebApplication1.Models.Entities.Person
+
+@{
+    ViewBag.Title = "PersonDetails";
+}
+
+<h2>Участник опроса</h2>
+<h4>Person</h4>
+<hr />
+
+<div class="row">
+    <div class="col-1">@Html.LabelFor(m => m.LastName)</div>
+    <div class="col-3">@Html.DisplayFor(m => m.LastName)</div>
+
+    <div class="col-1">@Html.LabelFor(m => m.FirstName)</div>
+    <div class="col-3">@Html.DisplayFor(m => m.FirstName)</div>
+
+    <div class="col-1">@Html.LabelFor(m => m.Patronymic)</div>
+    <div class="col-3">@Html.DisplayFor(m => m.Patronymic)</div>
+</div>
+
+<div class="row">
+    <div class="col-1">@Html.LabelFor(m => m.Age)</div>
+    <div class="col-3">@Html.DisplayFor(m => m.Age)</div>
+
+    <div class="col-1">@Html.LabelFor(m => m.Gender)</div>
+    <div class="col-3">@Html.DisplayFor(m => m.Gender)</div>
+
+    <div class="col-1">@Html.LabelFor(m => m.HasJob)</div>
+    <div class="col-3">@Html.DisplayFor(m => m.HasJob)</div>
+</div>
+
+<p>
+    @Html.ActionLink("Назад", "ListOfPeople")
+</p>
